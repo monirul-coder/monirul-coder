@@ -1,7 +1,7 @@
 ![I am monirul-coder](https://github.com/monirul-coder/monirul-coder/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm MD.MONITUL MOLLA</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h3 align="center">Programmer | Web Designer | Student | Speed Learner</h3>
 
 <div align="center">
 
