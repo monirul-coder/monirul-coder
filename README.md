@@ -18,10 +18,6 @@ Skills: REACT.JS / NEXT.JS / JS / HTML / CSS / BOOTSTRAP / TAILWIND CSS / DOM
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, REACT.JS**
 
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/monirul-coder](https://lnk.bio/monirul-coder)
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
